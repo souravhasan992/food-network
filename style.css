@@ -72,3 +72,18 @@ p{
     max-height: 19vw;
     border-radius: 15px;
 }
+.follower-section{
+    margin: 10%;
+    display: flex;
+    box-shadow: 4px 2px 16px 1px rgb(107 126 126), 1px 1px 30px -10px rgb(107 126 126);
+    border-radius: 15px;
+}
+.follower{
+    margin:1% 5%;
+    text-align: center;
+    
+
+}
+.follower :last-child{
+    margin-right: 0;
+}
