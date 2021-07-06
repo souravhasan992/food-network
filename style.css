@@ -92,8 +92,11 @@ p{
 .order-here{
     
     padding-left: 30%;
-    background-image: url(images/food/chocolate.png);
-    margin-bottom: 5%;
+    background-image: url(images/female/kisspng-healthy-diet-food-eating-nutrition-woman-diet-5b20e260c13c04.3441013515288817607915-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    margin-bottom: 15%;
 }
 .order-here h2{
     padding-top: 0%;
