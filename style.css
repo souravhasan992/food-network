@@ -3,9 +3,7 @@ body{
     border: 0;
     padding: 0;
 }
-section{
-    padding-bottom: 10%;
-}
+
 h1{
     font-weight: 800;
     font-size: 4vw;
@@ -22,6 +20,7 @@ p{
 }
 .flex-container{
     display:flex;
+    padding-bottom: 10%;
 }
 .flex-box{
     width: 40vw;
@@ -49,7 +48,7 @@ p{
     background-image: url(/images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 2%;
+    
 }
 .text-center{
     text-align: center;
@@ -86,4 +85,14 @@ p{
 }
 .follower :last-child{
     margin-right: 0;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: rgb(252, 252, 252);
+    padding-bottom:1% ;
+}
+footer h2{
+    text-transform: uppercase;
+    padding-top: 2%;
 }
