@@ -12,11 +12,11 @@ h1{
 h2{
     text-transform: capitalize;
     font-weight: 800;
-    font-size: 3rem;
+    font-size: 3vw;
     padding-top: 12%;
 }
 p{
-    font-size: 2rem;
+    font-size: 2vw;
 }
 .flex-container{
     display:flex;
