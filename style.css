@@ -20,12 +20,13 @@ p{
 }
 .flex-container{
     display:flex;
-    padding-bottom: 10%;
+    padding-bottom: 5%;
 }
 .flex-box{
     width: 40vw;
     padding-left: 10%;
 }
+
 .marked{
     color: rgb(245, 184, 70);
 }
@@ -88,6 +89,31 @@ p{
 .follower :last-child{
     margin-right: 0%;
 }
+.order-here{
+    
+    padding-left: 30%;
+    background-image: url(images/food/chocolate.png);
+    margin-bottom: 5%;
+}
+.order-here h2{
+    padding-top: 0%;
+    text-align:30%;
+    color: blueviolet;
+}
+.order-here a{
+    padding: 3%;
+    background-image: linear-gradient( to right, rgba(84, 177, 96, 0.5), rgba(70, 30, 12, 0.699));
+    border-radius: 5px;
+    text-decoration: none;
+}   
+
+input {
+    padding: 5% 20%;
+    border-radius: 15px;
+    align-items: center;
+}
+
+
 footer{
     background-color: black;
     text-align: center;
